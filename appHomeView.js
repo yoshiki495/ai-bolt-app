@@ -71,7 +71,8 @@ module.exports = () => {
                             "text": "コースの追加申請",
                             "emoji": true
                         },
-                        "value": "new_configuration"
+                        "value": "new_configuration",
+                        "action_id": "open_contact_modal_clicked"
                     }
                 ]
             },
@@ -90,7 +91,7 @@ module.exports = () => {
                         "type": "button",
                         "text": {
                             "type": "plain_text",
-                            "text": "AI Tutorとは",
+                            "text": "AI Tutorの使い方",
                             "emoji": true
                         },
                         "style": "primary",

@@ -4,6 +4,61 @@ module.exports = () => {
             "type": "section",
             "text": {
                 "type": "mrkdwn",
+                "text": "*JavaScript基礎第0章 :*\n*<https://ailearning-fd8ce.web.app/documentation/javascript00 | JavaScriptとは>*"
+            }
+        },
+        {
+            "type": "section",
+            "fields": [
+                {
+                    "type": "mrkdwn",
+                    "text": "*コース:*\nJavaScript基礎"
+                },
+                {
+                    "type": "mrkdwn",
+                    "text": "*担当:*\nAI"
+                },
+                {
+                    "type": "mrkdwn",
+                    "text": "*目安時間:*\n20min"
+                },
+                {
+                    "type": "mrkdwn",
+                    "text": "*難易度:*\n簡単"
+                },
+                {
+                    "type": "mrkdwn",
+                    "text": "*期限:*\n2023/11/3"
+                },
+                {
+                    "type": "mrkdwn",
+                    "text": "*質問部屋:*\n #javascript質問部屋"
+                }
+            ]
+        },
+        {
+            "type": "actions",
+            "elements": [
+                {
+                    "type": "button",
+                    "text": {
+                        "type": "plain_text",
+                        "emoji": true,
+                        "text": "問題を解く"
+                    },
+                    "url": "https://ailearning-fd8ce.web.app/trial/00",
+                    "style": "primary",
+                    "value": "click_me_123"
+                },
+            ]
+        },
+        {
+            "type": "divider"
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
                 "text": "*JavaScript基礎第1章 :*\n*<https://ailearning-fd8ce.web.app/documentation/javascript01 | 変数、データ型、演算子>*"
             }
         },
@@ -20,7 +75,7 @@ module.exports = () => {
                 },
                 {
                     "type": "mrkdwn",
-                    "text": "*目安時間:*\n2h"
+                    "text": "*目安時間:*\n40min"
                 },
                 {
                     "type": "mrkdwn",
@@ -28,7 +83,7 @@ module.exports = () => {
                 },
                 {
                     "type": "mrkdwn",
-                    "text": "*期限:*\n2023/7/3"
+                    "text": "*期限:*\n2023/11/3"
                 },
                 {
                     "type": "mrkdwn",
@@ -75,7 +130,7 @@ module.exports = () => {
                 },
                 {
                     "type": "mrkdwn",
-                    "text": "*目安時間:*\n2h"
+                    "text": "*目安時間:*\n40min"
                 },
                 {
                     "type": "mrkdwn",
@@ -83,7 +138,7 @@ module.exports = () => {
                 },
                 {
                     "type": "mrkdwn",
-                    "text": "*期限:*\n2023/7/3"
+                    "text": "*期限:*\n2023/11/3"
                 },
                 {
                     "type": "mrkdwn",
@@ -101,7 +156,7 @@ module.exports = () => {
                         "emoji": true,
                         "text": "問題を解く"
                     },
-                    "url": "https://ailearning-fd8ce.web.app/trial/01",
+                    "url": "https://ailearning-fd8ce.web.app/trial/02",
                     "style": "primary",
                     "value": "click_me_123"
                 },
@@ -130,7 +185,7 @@ module.exports = () => {
                 },
                 {
                     "type": "mrkdwn",
-                    "text": "*目安時間:*\n2h"
+                    "text": "*目安時間:*\n40min"
                 },
                 {
                     "type": "mrkdwn",
@@ -138,7 +193,7 @@ module.exports = () => {
                 },
                 {
                     "type": "mrkdwn",
-                    "text": "*期限:*\n2023/7/3"
+                    "text": "*期限:*\n2023/11/3"
                 },
                 {
                     "type": "mrkdwn",
@@ -156,7 +211,7 @@ module.exports = () => {
                         "emoji": true,
                         "text": "問題を解く"
                     },
-                    "url": "https://ailearning-fd8ce.web.app/trial/01",
+                    "url": "https://ailearning-fd8ce.web.app/trial/03",
                     "style": "primary",
                     "value": "click_me_123"
                 },
@@ -185,7 +240,7 @@ module.exports = () => {
                 },
                 {
                     "type": "mrkdwn",
-                    "text": "*目安時間:*\n2h"
+                    "text": "*目安時間:*\n40min"
                 },
                 {
                     "type": "mrkdwn",
@@ -193,7 +248,7 @@ module.exports = () => {
                 },
                 {
                     "type": "mrkdwn",
-                    "text": "*期限:*\n2023/7/3"
+                    "text": "*期限:*\n2023/11/3"
                 },
                 {
                     "type": "mrkdwn",
@@ -211,62 +266,7 @@ module.exports = () => {
                         "emoji": true,
                         "text": "問題を解く"
                     },
-                    "url": "https://ailearning-fd8ce.web.app/trial/01",
-                    "style": "primary",
-                    "value": "click_me_123"
-                },
-            ]
-        },
-        {
-            "type": "divider"
-        },
-        {
-            "type": "section",
-            "text": {
-                "type": "mrkdwn",
-                "text": "*JavaScript基礎第5章 :*\n*<https://ailearning-fd8ce.web.app/documentation/javascript05 | コールバック、プロミス、非同期処理>*"
-            }
-        },
-        {
-            "type": "section",
-            "fields": [
-                {
-                    "type": "mrkdwn",
-                    "text": "*コース:*\nJavaScript基礎"
-                },
-                {
-                    "type": "mrkdwn",
-                    "text": "*担当:*\nAI"
-                },
-                {
-                    "type": "mrkdwn",
-                    "text": "*目安時間:*\n2h"
-                },
-                {
-                    "type": "mrkdwn",
-                    "text": "*難易度:*\n簡単"
-                },
-                {
-                    "type": "mrkdwn",
-                    "text": "*期限:*\n2023/7/3"
-                },
-                {
-                    "type": "mrkdwn",
-                    "text": "*質問部屋:*\n #javascript質問部屋"
-                }
-            ]
-        },
-        {
-            "type": "actions",
-            "elements": [
-                {
-                    "type": "button",
-                    "text": {
-                        "type": "plain_text",
-                        "emoji": true,
-                        "text": "問題を解く"
-                    },
-                    "url": "https://ailearning-fd8ce.web.app/trial/01",
+                    "url": "https://ailearning-fd8ce.web.app/trial/04",
                     "style": "primary",
                     "value": "click_me_123"
                 },
