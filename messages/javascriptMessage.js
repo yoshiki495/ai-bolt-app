@@ -20,7 +20,7 @@ module.exports = () => {
                 },
                 {
                     "type": "mrkdwn",
-                    "text": "*目安時間:*\n20min"
+                    "text": "*目安時間:*\n30min"
                 },
                 {
                     "type": "mrkdwn",
@@ -75,7 +75,7 @@ module.exports = () => {
                 },
                 {
                     "type": "mrkdwn",
-                    "text": "*目安時間:*\n40min"
+                    "text": "*目安時間:*\n30min"
                 },
                 {
                     "type": "mrkdwn",
@@ -130,7 +130,7 @@ module.exports = () => {
                 },
                 {
                     "type": "mrkdwn",
-                    "text": "*目安時間:*\n40min"
+                    "text": "*目安時間:*\n30min"
                 },
                 {
                     "type": "mrkdwn",
@@ -185,7 +185,7 @@ module.exports = () => {
                 },
                 {
                     "type": "mrkdwn",
-                    "text": "*目安時間:*\n40min"
+                    "text": "*目安時間:*\n30min"
                 },
                 {
                     "type": "mrkdwn",
@@ -240,7 +240,7 @@ module.exports = () => {
                 },
                 {
                     "type": "mrkdwn",
-                    "text": "*目安時間:*\n40min"
+                    "text": "*目安時間:*\n30min"
                 },
                 {
                     "type": "mrkdwn",
